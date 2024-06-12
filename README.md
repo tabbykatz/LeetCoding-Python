@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/tabbykatz/LeetCoding-Python/tree/master/2383-add-two-integers) |
 # Array
 |  |
@@ -19,3 +20,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/tabbykatz/LeetCoding-Python/tree/master/1791-richest-customer-wealth) |
+# String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0412-fizz-buzz) |
+# Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0412-fizz-buzz) |
