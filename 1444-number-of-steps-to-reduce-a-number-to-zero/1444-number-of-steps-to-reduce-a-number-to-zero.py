@@ -6,7 +6,7 @@ class Solution:
             if num == 0:
                 return steps + 0
             elif num % 2 == 0:
-                num = num // 2
+                num = num >> 1 # needlessly clever, what am i an embedded systems programmer?
                 steps += 1
                 return numModder(num, steps)
 
