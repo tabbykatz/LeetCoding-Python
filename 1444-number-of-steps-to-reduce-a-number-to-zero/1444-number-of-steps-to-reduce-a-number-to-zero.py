@@ -11,7 +11,7 @@ class Solution:
                 return numModder(num, steps)
 
             else:
-                num = num - 1
+                num = num - 1 # could bit shift here too, silly 
                 steps += 1
                 return numModder(num, steps)
             
