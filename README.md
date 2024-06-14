@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0412-fizz-buzz) |
 # Simulation
 |  |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0908-middle-of-the-linked-list) |
 # Hash Table
 |  |
@@ -50,3 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0383-ransom-note) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0392-is-subsequence) |
