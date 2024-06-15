@@ -7,7 +7,6 @@ class Solution:
         for right in range(len(nums)):
             product *= nums[right]
             while product >= k:
-                print(left, right, product, count)
                 product //= nums[left]
                 left += 1
             count += right - left + 1
