@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/tabbykatz/LeetCoding-Python/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tabbykatz/LeetCoding-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/tabbykatz/LeetCoding-Python/tree/master/1791-richest-customer-wealth) |
@@ -64,3 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/tabbykatz/LeetCoding-Python/tree/master/1019-squares-of-a-sorted-array) |
+# Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tabbykatz/LeetCoding-Python/tree/master/0713-subarray-product-less-than-k) |
